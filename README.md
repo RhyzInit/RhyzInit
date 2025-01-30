@@ -4,7 +4,7 @@
 <p align="center">✨ Passionate about <strong>Coding Projects</strong>, <strong>Tech Content Creation</strong>, and diving deep into the <strong>Anime/Manga Fandom</strong>.</p>
 
 <p align="center">
-  <a href="https://x.com/rhysonate" target="_blank"><strong>🐦 X (Twitter)</strong></a> |
+  <a href="https://x.com/rhysonateX" target="_blank"><strong>🐦 X (Twitter)</strong></a> |
   <a href="https://instagram.com/rhysonate" target="_blank"><strong>📸 Instagram</strong></a>
 </p>
 
