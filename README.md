@@ -7,7 +7,9 @@
   <a href="https://x.com/rhysonateX" target="_blank"><strong>🐦 X (Twitter)</strong></a> |
   <a href="https://instagram.com/rhysonate" target="_blank"><strong>📸 Instagram</strong></a>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhysonate&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="rhysonate's Top Languages">
+</p>
 <hr>
 
 <p align="center">
