@@ -15,3 +15,7 @@
   💡 Fun fact: I’m always looking for innovative ways to blend technology with creativity!<br>
   💬 Feel free to reach out for collaborations or just to say hi!
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhysonate&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="rhysonate's Top Languages">
+</p>
