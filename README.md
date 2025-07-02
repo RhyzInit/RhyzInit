@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm <a href="https://linktr.ee/rhyzinit" target="_blank">Rhyz</a> 👋</h2>
+<h2 align="center">Hi there, I'm <a href="https://linktr.ee/rhyzinit" target="_blank">Rhyz 水</a> 👋</h2>
 <h3 align="center">Welcome to my GitHub profile! 🚀</h3>
 
 <p align="center">✨ Passionate about <strong>Coding Projects</strong>, <strong>Tech Content Creation</strong>, and exploring into the <strong>Anime/Manga Fandom</strong>.</p>
